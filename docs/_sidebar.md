@@ -1,0 +1,3 @@
+- [Introduction](/)
+- Reference
+    - [Color Segments](colorSegments.md)
